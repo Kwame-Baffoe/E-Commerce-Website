@@ -57,7 +57,11 @@
 <body>
 
 	<div class='preloader'><div class='loaded'>&nbsp;</div></div>
-	
+
+
+	//The Banner of the page comes here.
+
+
 	<header id="home" class="header">
 		<div class="main_menu_bg navbar-fixed-top">
 			<div class="container">
@@ -123,7 +127,7 @@
 				<div class="main_banner_area text-center">
 					<div class="col-md-12 col-sm-12">
 						<div class="single_banner_text wow zoomIn" data-wow-duration="1s">
-							<h2>HELLO, WE A€™RE CONSONANTS</h2>
+							<h2>HELLO, WE Aâ‚¬â„¢RE CONSONANTS</h2>
 							<h5>THE CD STORE YOU CAN TRUST</h5>
 							
 							<div class="separetor"></div>
